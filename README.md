@@ -1,5 +1,4 @@
-## Hi there 👋 (https://mariahabib2207.github.io/MariaHabib2207/)
-
+## Hi there 👋 
 <!--
 **MariaHabib2207/MariaHabib2207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --><div align="center">
 
-# MARIA HABIB
+# MARIA HABIB (https://mariahabib2207.github.io/MariaHabib2207/)
 
 ### `Full Stack Software Engineer`
 
